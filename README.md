@@ -80,5 +80,5 @@ ML models to predict volatility surfaces using financial time-series.
 ## 📫 Contact
 
 - **LinkedIn:** https://linkedin.com/in/saad-rik-7394b314  
-- **Email:** riksasad@gmail.com  
+- **Email:** riksaad@gmail.com  
 
